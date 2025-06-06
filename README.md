@@ -1,6 +1,8 @@
 # ELEVATELABSTASK08
 
-The uploaded screenshot showcases a **Superstore Sales Dashboard**, designed to visually represent key sales metrics using interactive charts and insights. Here’s what has been implemented:
+**Objective**:
+ Create a basic interactive dashboard that shows sales performance by product, region, and month.
+Here’s what has been implemented:
 
 1. **Sales Trend Over Time**  
    - A **line chart** displays the sum of sales by order date, spanning from **March 2014 to September 2017**.  
